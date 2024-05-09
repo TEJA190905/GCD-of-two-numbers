@@ -36,8 +36,7 @@ def gcd():
 ```
 
 ## Output:
-
-
+![ex4-output](https://github.com/TEJA190905/GCD-of-two-numbers/assets/167788543/248124d8-d6ee-4eea-b9e6-d7b0801e96de)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
